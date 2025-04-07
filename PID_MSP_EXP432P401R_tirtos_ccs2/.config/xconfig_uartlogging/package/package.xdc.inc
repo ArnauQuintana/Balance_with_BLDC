@@ -1,0 +1,12 @@
+package.xdc
+package.xs
+package/xconfig_uartlogging.sch
+package/.vers_g200
+package/.vers_r200
+package/.vers_b200
+package/.xdc-I11
+package/xconfig_uartlogging.java
+package/xconfig_uartlogging.class
+package/package_xconfig_uartlogging.c
+package/package.defs.h
+package/xconfig_uartlogging.ccs
