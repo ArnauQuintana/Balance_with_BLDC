@@ -1,5 +1,5 @@
 # Balance with BLDC 
-This project was developed in 2022 in a lecture from my BSc. The objective was to design a balance (physical structure), design and test the BLDC controller (SW and HW) and implement 
+This project was developed in 2022 in a lecture from my BSc. The objective was to design a balance (physical structure), design and test the BLDC controller (SW and HW) and implement a central control in TI-RTOS. 
 
 The next image shows the block diagram of the system:
 ![image](https://github.com/user-attachments/assets/9ebaade4-612b-4dfe-baa9-0b50d49b84cc)
