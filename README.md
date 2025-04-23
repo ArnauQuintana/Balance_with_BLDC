@@ -19,5 +19,6 @@ Schematic of the BLDC controller:
 ![image](https://github.com/user-attachments/assets/06aaa2a7-ce82-4ea9-b542-1953a68dc476)
 
 
-[image](https://github.com/user-attachments/assets/d4cd81b0-a341-4ce9-88af-673c4594db42)
+RTOS architecture: 
+![image](https://github.com/user-attachments/assets/d4cd81b0-a341-4ce9-88af-673c4594db42)
 
