@@ -1,5 +1,10 @@
 # Balance with BLDC 
+This project was developed in 2022 in a lecture from my BSc. The objective was to design a balance (physical structure), design and test the BLDC controller (SW and HW) and implement 
+
+The next image shows the block diagram of the system:
 ![image](https://github.com/user-attachments/assets/9ebaade4-612b-4dfe-baa9-0b50d49b84cc)
+
+It was composed by 2 BLDC controllers controlled by a MSP430 programmed in bare metal and a central controller programmed with TI-RTOS. 
 
 
 ![image](https://github.com/user-attachments/assets/0e59a497-1595-4fd0-be35-c5ec9411361d)
